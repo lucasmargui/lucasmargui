@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmargui&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-## Tecnologias que eu uso no meu dia
+## :computer:  Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,4 +20,16 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div><br/>
- 
+
+
+
+
+<h2 align="left">🔥   Meus Status :</h2>
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lucasmargui&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
