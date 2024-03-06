@@ -21,8 +21,3 @@
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div><br/>
  
-<div> 
-
- ![Snake animation](https://github.com/lucasmargui/lucasmargui/blob/main/github-contribution-grid-snake.svg)
- 
-</div>
