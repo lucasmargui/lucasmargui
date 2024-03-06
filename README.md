@@ -1,4 +1,8 @@
 
+<h1 align="left">Hey 👋 Meu nome é Lucas, Programador FullStack </h1>
+
+###
+
 <div align="center">
   <a href="https://github.com/lucasmargui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmargui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,14 +26,13 @@
 </div><br/>
 
 
-
-
-<h2 align="left">🔥   Meus Status :</h2>
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasmargui&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h2 align="left">About me</h2>
 
 ###
+
+<p align="left">✨ Criando gambiarras (features) desde 2016. <br>📚 Atualmente estudando flutter e estruturas de projeto. <br>🎯 Objetivos: Criar repositórios que servirão como base para desenvolvimento de qualquer aplicação <br>
+
+###
+
+
+
