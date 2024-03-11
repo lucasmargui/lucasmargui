@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">✨ Criando gambiarras (features) desde 2016. <br>📚 Atualmente estudando flutter e estruturas de projeto. <br>🎯 Objetivos: Criar repositórios que servirão como base para desenvolvimento de qualquer aplicação. <br>
+<p align="left">✨ Criando gambiarras (features) desde 2018. <br>📚 Atualmente estudando flutter e estruturas de projeto. <br>🎯 Objetivos: Criar repositórios que servirão como base para desenvolvimento de qualquer aplicação. <br>
 
 ###
 
