@@ -23,7 +23,7 @@
 - 📫 How to reach me **lucasmargui@outlook.com**
 
 
-## Languages and Tools 
+## Languages and Tools :
 <div>
 
 ### Languages:
@@ -37,7 +37,7 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="bootstrap" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="bootstrap" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> | <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/>
 
 
-### Database
+### Database:
 
 | MySQL |  SQlite | Postgres | MongoDB | Firebase |
 |-------|---------|----------|---------|----------|
