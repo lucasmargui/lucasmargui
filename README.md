@@ -14,11 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmargui&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmargui" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasmargui](https://github.com/lucasmargui)
 
-- 💬 Ask me about **React, Vue, Flutter, C#**
+- 💬 Ask me about **React, Vue, Flutter, C#, Laravel**
 
 - 📫 How to reach me **lucasmargui@outlook.com**
 
