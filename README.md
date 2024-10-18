@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate Fullstack developer.</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasmargui](https://github.com/lucasmargui)
 
-- 💬 Ask me about **React, Vue, Flutter, C#, Laravel, VB.Net**
+- 💬 Ask me about **React, Vue, Flutter, C#, Laravel, VB.Net, Python**
 
 - 📫 How to reach me **lucasmargui@outlook.com**
 
