@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasmargui](https://github.com/lucasmargui)
 
-- 💬 Ask me about **React, Vue, Flutter, C#, Laravel, VB.Net, Python, PHP**
+- 💬 Ask me about **React, Vue, Flutter, C#, Laravel, VB.Net, Python**
 
 - 📫 How to reach me **lucasmargui@outlook.com**
 
